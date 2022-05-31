@@ -5,6 +5,12 @@
 
 ###TODO
 https://www.jetbrains.com/help/idea/running-a-dbms-image.html
+https://www.jetbrains.com/help/idea/docker.html#build-image
+
+* Create DockerFile
+* Create database schema
+* Populate database
+* Find a way to automatically launch postgres container at application launch
  
 ##******* FEATURES *******
 
